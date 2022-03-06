@@ -34,7 +34,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [![react](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/react)](https://www.npmjs.com/package/react)
 [![react-icons](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/react-icons)](https://www.npmjs.com/package/react-icons)
 [![typescript](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/typescript)](https://www.npmjs.com/package/typescript)
-[![react-beautiful-dnd](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/dev/react-beautiful-dnd)](https://www.npmjs.com/package/react-beautiful-dnd)
+[![react-beautiful-dnd](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/react-beautiful-dnd)](https://www.npmjs.com/package/react-beautiful-dnd)
 
 [Go to List of Dependencies](https://github.com/KenTandrian/ts-taskify/network/dependencies)
 
