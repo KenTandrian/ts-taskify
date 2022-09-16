@@ -4,6 +4,7 @@
 [![top-language](https://img.shields.io/github/languages/top/KenTandrian/ts-taskify)](https://github.com/KenTandrian/ts-taskify/search?l=javascript)
 [![commit](https://img.shields.io/github/commit-activity/m/KenTandrian/ts-taskify)](https://github.com/KenTandrian/ts-taskify/commits/main)
 [![last-commit](https://img.shields.io/github/last-commit/KenTandrian/ts-taskify)](https://github.com/KenTandrian/ts-taskify/commits/main)
+[![pages-build-deployment](https://github.com/KenTandrian/ts-taskify/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/KenTandrian/ts-taskify/actions/workflows/pages/pages-build-deployment)
 
 ## Introduction
 Taskify is a to-do-list app made using Typescript and ReactJS.
