@@ -47,7 +47,7 @@
     "@types/node": "^18.11.9",
     "@types/react": "^18.0.25",
     "@types/react-beautiful-dnd": "^13.1.2",
-    "@types/react-dom": "^18.0.8",
+    "@types/react-dom": "^18.0.9",
     "gh-pages": "^4.0.0"
   }
 }
