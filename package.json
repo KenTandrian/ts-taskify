@@ -1,7 +1,7 @@
 {
   "name": "ts-todolist",
   "homepage": "http://kentandrian.github.io/ts-taskify",
-  "version": "0.3.32",
+  "version": "0.3.33",
   "private": true,
   "dependencies": {
     "@svgr/webpack": "^8.0.1",
