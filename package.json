@@ -52,6 +52,7 @@
   },
   "overrides": {
     "react-scripts": {
+      "@svgr/webpack": "^8.0.1",
       "typescript": "^5.0.0"
     }
   }
