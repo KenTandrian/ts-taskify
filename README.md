@@ -32,10 +32,18 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=-23007ACC)](https://github.com/KenTandrian?tab=repositories&language=typescript)
 
 ## Dependencies
+
+### Production
 [![react](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/react)](https://www.npmjs.com/package/react)
-[![react-icons](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/react-icons)](https://www.npmjs.com/package/react-icons)
-[![typescript](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/typescript)](https://www.npmjs.com/package/typescript)
 [![react-beautiful-dnd](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/react-beautiful-dnd)](https://www.npmjs.com/package/react-beautiful-dnd)
+[![react-dom](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/react-dom)](https://www.npmjs.com/package/react-dom)
+[![react-icons](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/react-icons)](https://www.npmjs.com/package/react-icons)
+
+### Development
+[![gh-pages](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/dev/gh-pages)](https://www.npmjs.com/package/gh-pages)
+[![typescript](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/dev/typescript)](https://www.npmjs.com/package/typescript)
+[![vite](https://img.shields.io/github/package-json/dependency-version/KenTandrian/ts-taskify/dev/vite)](https://www.npmjs.com/package/vite)
+
 
 [Go to List of Dependencies](https://github.com/KenTandrian/ts-taskify/network/dependencies)
 
