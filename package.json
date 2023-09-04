@@ -1,7 +1,7 @@
 {
   "name": "ts-todolist",
   "homepage": "https://kentandrian.github.io/ts-taskify",
-  "version": "0.4.24",
+  "version": "0.4.27",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
