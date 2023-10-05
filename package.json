@@ -3,13 +3,6 @@
   "homepage": "https://kentandrian.github.io/ts-taskify",
   "version": "0.4.45",
   "private": true,
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-beautiful-dnd": "^13.1.1",
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.11.0",
-    "web-vitals": "^3.5.0"
-  },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -17,23 +10,12 @@
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "web-vitals": "^3.5.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.1.3",
