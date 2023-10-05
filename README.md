@@ -8,18 +8,17 @@
 
 ## Introduction
 Taskify is a to-do-list app made using Typescript and ReactJS.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Vite](https://github.com/vitejs/vite).
 
 ## Available Scripts
 You can do these commands in Git Bash:\
-`npm start` > Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
-`npm test`\
+`npm start` > Runs the app in the development mode. Open [http://localhost:5173/ts-taskify/](http://localhost:5173/ts-taskify/) to view it in your browser.\
 `npm run build`\
-`npm run eject`
+`npm run serve`
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Vite documentation](https://vitejs.dev/guide/).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
@@ -28,8 +27,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/KenTandrian?tab=repositories&language=css)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/KenTandrian?tab=repositories&language=javascript)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://github.com/KenTandrian?tab=repositories&language=javascript)
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/KenTandrian?tab=repositories)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm)](https://github.com/KenTandrian?tab=repositories)
 [![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=-23007ACC)](https://github.com/KenTandrian?tab=repositories&language=typescript)
+[![Vite](https://img.shields.io/badge/Vite-black.svg?style=for-the-badge&logo=Vite)](https://github.com/KenTandrian?tab=repositories)
 
 ## Dependencies
 
