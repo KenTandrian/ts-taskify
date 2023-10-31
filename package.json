@@ -1,7 +1,7 @@
 {
   "name": "ts-todolist",
   "homepage": "https://kentandrian.github.io/ts-taskify",
-  "version": "0.4.80",
+  "version": "0.4.86",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
